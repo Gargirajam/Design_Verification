@@ -1,0 +1,1 @@
+vcs design.sv -sverilog 
